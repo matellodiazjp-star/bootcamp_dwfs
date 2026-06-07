@@ -1,0 +1,15 @@
+.servicios {
+    padding: 50px;
+    text-align: left;
+}
+.tarjetas {
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+     margin-top: 20px;
+}
+.tarjeta {
+    background: rgb(230, 223, 223);
+    padding: 30px;
+    width: 150px;
+}

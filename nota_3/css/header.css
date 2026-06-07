@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: rgb(38, 38, 168);
+    color: white;
+}
+.Nav{
+    display: flex;
+    gap: 20px;
+}
+Nav a {
+    color: white;
+    text-decoration: none;
+}
+.btn{
+    background: orange;
+    color: white;
+    border: none;
+    padding: 10px 15px; 
+    border-radius: 25px;
+    
+
+}
